@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+jupyter
+opencv-python
+labelImg
+ultralytics
+torch
+torchvision
+torchaudio

@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+yolo_venv/
+venv/
+.env/
+
+# Model weights
+*.pt
+*.pth
+
+# OS files
+.DS_Store
+Thumbs.db
